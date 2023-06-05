@@ -3,7 +3,7 @@
 ;; Copyright (C) 2023 Free Software Foundation, Inc.
 
 ;; Author: Thomas Fitzsimmons <fitzsim@fitzsim.org>
-;; Version: 1.0.2
+;; Version: 1.0.3
 ;; Package-Requires: ((emacs "26.1"))
 
 ;; This program is free software; you can redistribute it and/or modify
@@ -28,7 +28,7 @@
 
 ;; M-x ulisp-repl
 
-;; Uses Emacs's built-in serial-port support.  I you are running on a
+;; Uses Emacs's built-in serial-port support.  If you are running on a
 ;; non-Linux kernel, you will need to adapt
 ;; `ulisp--select-serial-device'.
 
